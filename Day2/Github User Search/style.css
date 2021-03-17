@@ -1,0 +1,14 @@
+body{
+  background-color: skyblue;
+}
+.img-thumbnail
+{
+    width: 250px;
+    height: 250px
+}
+
+.details
+{
+    height: 200px;
+  width: 200px;
+}
