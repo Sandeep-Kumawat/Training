@@ -1,0 +1,8 @@
+E:\Training\Day5\BankApp\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+E:\Training\Day5\BankApp\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+E:\Training\Day5\BankApp\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+E:\Training\Day5\BankApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+E:\Training\Day5\BankApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+E:\Training\Day5\BankApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Training\Day5\BankApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+E:\Training\Day5\BankApp\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
