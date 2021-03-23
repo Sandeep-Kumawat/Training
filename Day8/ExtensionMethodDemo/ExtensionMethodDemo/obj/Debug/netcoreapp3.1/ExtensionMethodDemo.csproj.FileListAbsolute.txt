@@ -1,0 +1,15 @@
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.exe
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.deps.json
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.runtimeconfig.json
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.runtimeconfig.dev.json
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.dll
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.pdb
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\CalculatorLib.dll
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\CalculatorLib.pdb
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.AssemblyInfo.cs
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.csproj.CopyComplete
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.dll
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.pdb
+C:\Users\sandeep.kumawat\Training\Day8\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.genruntimeconfig.cache

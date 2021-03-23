@@ -1,0 +1,13 @@
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.exe
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.deps.json
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.json
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.dev.json
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csprojAssemblyReference.cache
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfo.cs
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\Users\sandeep.kumawat\Training\Day8\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.genruntimeconfig.cache

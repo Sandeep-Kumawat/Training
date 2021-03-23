@@ -1,0 +1,13 @@
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\bin\Debug\netcoreapp3.1\BookDelegateDemo.exe
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\bin\Debug\netcoreapp3.1\BookDelegateDemo.deps.json
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\bin\Debug\netcoreapp3.1\BookDelegateDemo.runtimeconfig.json
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\bin\Debug\netcoreapp3.1\BookDelegateDemo.runtimeconfig.dev.json
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\bin\Debug\netcoreapp3.1\BookDelegateDemo.dll
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\bin\Debug\netcoreapp3.1\BookDelegateDemo.pdb
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\obj\Debug\netcoreapp3.1\BookDelegateDemo.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\obj\Debug\netcoreapp3.1\BookDelegateDemo.AssemblyInfo.cs
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\obj\Debug\netcoreapp3.1\BookDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\obj\Debug\netcoreapp3.1\BookDelegateDemo.dll
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\obj\Debug\netcoreapp3.1\BookDelegateDemo.pdb
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\obj\Debug\netcoreapp3.1\BookDelegateDemo.genruntimeconfig.cache
+C:\Users\sandeep.kumawat\Training\Day8\BookDelegateDemo\BookDelegateDemo\obj\Debug\netcoreapp3.1\BookDelegateDemo.csprojAssemblyReference.cache

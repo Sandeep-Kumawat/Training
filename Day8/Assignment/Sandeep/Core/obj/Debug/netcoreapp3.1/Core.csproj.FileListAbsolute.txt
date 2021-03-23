@@ -1,0 +1,8 @@
+C:\Users\sandeep.kumawat\Training\Day8\Assignment\Sandeep\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\sandeep.kumawat\Training\Day8\Assignment\Sandeep\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\sandeep.kumawat\Training\Day8\Assignment\Sandeep\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\sandeep.kumawat\Training\Day8\Assignment\Sandeep\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumawat\Training\Day8\Assignment\Sandeep\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\sandeep.kumawat\Training\Day8\Assignment\Sandeep\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumawat\Training\Day8\Assignment\Sandeep\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\sandeep.kumawat\Training\Day8\Assignment\Sandeep\Core\obj\Debug\netcoreapp3.1\Core.pdb
