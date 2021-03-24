@@ -1,0 +1,13 @@
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.exe
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.deps.json
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.runtimeconfig.json
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.runtimeconfig.dev.json
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.dll
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\bin\Debug\netcoreapp3.1\RealTimeDelegateDemo.pdb
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.csprojAssemblyReference.cache
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.AssemblyInfo.cs
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.dll
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.pdb
+C:\Users\sandeep.kumawat\Training\Day9\RealTimeDelegateDemo\RealTimeDelegateDemo\obj\Debug\netcoreapp3.1\RealTimeDelegateDemo.genruntimeconfig.cache
