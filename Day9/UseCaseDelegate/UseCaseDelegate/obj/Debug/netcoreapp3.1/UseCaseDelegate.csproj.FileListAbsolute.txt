@@ -1,0 +1,12 @@
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\bin\Debug\netcoreapp3.1\UseCaseDelegate.exe
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\bin\Debug\netcoreapp3.1\UseCaseDelegate.deps.json
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\bin\Debug\netcoreapp3.1\UseCaseDelegate.runtimeconfig.json
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\bin\Debug\netcoreapp3.1\UseCaseDelegate.runtimeconfig.dev.json
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\bin\Debug\netcoreapp3.1\UseCaseDelegate.dll
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\bin\Debug\netcoreapp3.1\UseCaseDelegate.pdb
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\obj\Debug\netcoreapp3.1\UseCaseDelegate.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\obj\Debug\netcoreapp3.1\UseCaseDelegate.AssemblyInfo.cs
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\obj\Debug\netcoreapp3.1\UseCaseDelegate.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\obj\Debug\netcoreapp3.1\UseCaseDelegate.dll
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\obj\Debug\netcoreapp3.1\UseCaseDelegate.pdb
+C:\Users\sandeep.kumawat\Training\Day9\UseCaseDelegate\UseCaseDelegate\obj\Debug\netcoreapp3.1\UseCaseDelegate.genruntimeconfig.cache

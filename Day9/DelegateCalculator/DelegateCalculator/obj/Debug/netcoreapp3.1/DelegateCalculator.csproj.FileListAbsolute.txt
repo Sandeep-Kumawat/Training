@@ -1,0 +1,12 @@
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.AssemblyInfo.cs
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.exe
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.deps.json
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.runtimeconfig.json
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.runtimeconfig.dev.json
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.dll
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\bin\Debug\netcoreapp3.1\DelegateCalculator.pdb
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.dll
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.pdb
+C:\Users\sandeep.kumawat\Training\Day9\DelegateCalculator\DelegateCalculator\obj\Debug\netcoreapp3.1\DelegateCalculator.genruntimeconfig.cache
