@@ -1,0 +1,12 @@
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.AssemblyInfo.cs
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.exe
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.deps.json
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.runtimeconfig.json
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.runtimeconfig.dev.json
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.dll
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.pdb
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.dll
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.pdb
+C:\Users\sandeep.kumawat\Training\Day10\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.genruntimeconfig.cache
