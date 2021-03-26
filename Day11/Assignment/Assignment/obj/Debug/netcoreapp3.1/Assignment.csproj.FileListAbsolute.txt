@@ -1,0 +1,13 @@
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\sandeep.kumawat\Training\Day11\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache

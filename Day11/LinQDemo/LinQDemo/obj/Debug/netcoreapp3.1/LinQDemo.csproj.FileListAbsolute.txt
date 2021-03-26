@@ -1,0 +1,12 @@
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.AssemblyInfo.cs
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.exe
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.deps.json
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.runtimeconfig.json
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.runtimeconfig.dev.json
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.dll
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\bin\Debug\netcoreapp3.1\LinQDemo.pdb
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.dll
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.pdb
+C:\Users\sandeep.kumawat\Training\Day11\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.genruntimeconfig.cache
